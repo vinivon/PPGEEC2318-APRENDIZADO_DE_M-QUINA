@@ -1,4 +1,4 @@
-# PPGEEC2318-APRENDIZADO_DE_M-QUINA
+# PPGEEC2318-APRENDIZADO_DE_MAQUINA
 Repositório para o curso de Aprendizagem de Máquina da Pós Graduação
 
 Aluno: Vinícius Lamas von Sohsten
